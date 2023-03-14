@@ -1,0 +1,35 @@
+h1 {
+  color: darkslateblue;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5 {
+  text-align: center;
+}
+img {
+  width: 20%;
+}
+body {
+  background-color: gainsboro;
+}
+#blue {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: blue;
+  margin: 20px;
+  padding: 20px;
+}
+#pink {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: pink;
+  margin: 20px;
+  padding: 20px;
+}
+#white {
+  display: flex;
+  background-color: white;
+  justify-content: space-evenly;
+  margin: 20px;
+  padding: 20px;
+}
